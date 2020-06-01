@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Curriculum vitae | Andrii Mishchenko
-url: '/'
+url: ''
 baseurl: '/cv-andrii-mishchenko' #change it according to your repository name
 description: Um tema Jekyll pra criar CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
