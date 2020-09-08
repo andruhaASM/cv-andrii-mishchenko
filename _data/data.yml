@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andrii Mishchenko
-    tagline: Copywriter | GrowthHacker
+    tagline: GrowthHacker | Engenheiro | Programador
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -49,13 +49,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Perfil profissional
+    title: Apresentação
     summary: |
-      Últimos 5 anos passei criando um MVP da minha vida e estou bem feliz com resultado. 
-      Dessa vez o MVP é baseado em Copywriting, Engenharia e Programação. 
-      Tenho prazer de aproveitar o melhor dessas três áreas e gerar resultados impactantes.
+      <p>Últimos 5 anos passei criando um MPV (Mínimo Produto Viável) da minha vida e estou bem feliz com resultado. 
+      Tenho um background de engenheiro, uma boa capacidade de análise e sou apaixonado pela programação.</p>
+      <p>Me concentrei no Marketing Digital e Programação. Consegui aproveitar o melhor dessas três áreas e gerar resultados impactantes.
+      Atualmente estou em busca de trabalho que me permite explorar o meu lado de engenheiro e aplicar os meus conhecimentos em programação.</p>
 education:
-    - degree: Growth Hacker especializado em Marketing Digital
+    - degree: Analista de Marketing | Growth Hacker
       university: Eazl
       time: 2019 - 2019
       details: |
@@ -83,7 +84,7 @@ education:
       details: |
 
 experiences:
-    - role: Copywriter e GrowthHacker
+    - role: Analista de Marketing Digital
       time: 2018 - Atual
       company: Cálculo Jurídico, Curitiba
       details: |
@@ -96,6 +97,17 @@ experiences:
           - Otimização de site comercial (migração de WordPress pro gerador de sites estáticos opensource);
           nota 100 no Google PageSpeed Insights
           - Otimização da taxa de abertura dos emails automatizados no RD Station e segmentação avançada de leads (25% da taxa de abertura).
+          - Criação de automações avançadas que ligam a base de leads com o público personalizado do FacebookAds. Isso permitiu crir anúncios relevantes para base de clientes e aumentar conversões
+    
+    - role: Analista de Marketing
+      time: 2019 - Atual
+      company: Golka Brasil, Florianópolis
+      details: |
+        Golka é uma empresa que eu e a minha namorada criamos em 2018. Atua no ramo de produtos para cuidados pessoais, saúde e beleza.
+        As minhas atribuições dentro da empresa são:
+          - Criação e manutenção de <a href="https://golka.com.br/" target="_blank">site comercial</a>. Criei esse site do zero usando framework Flask e integrei o sistema de 
+        pagamento do WireCard.
+          - Criação e manutenção de funis automatizados de venda
 
 publications:
     title: Publicações
@@ -103,6 +115,9 @@ publications:
     papers:
       - title: "Copywriting e finanças: oportunidades e comércio"
         link: "https://youtu.be/W7Arf_gyGks?t=429"
+        authors: Andrii Mishchenko
+      - title: "Um método eficiente (e incomum) de aprender sobre email marketing"
+        link: "https://andruhaasm.github.io/dogboxblog/email-marketing-como-fazer"
         authors: Andrii Mishchenko
 
 skills:
@@ -114,6 +129,8 @@ skills:
 
       - name: RD Station
         level: 100%
+      - name: ActiveCampaign
+        level: 100%
 
       - name: SEO
         level: 75%
@@ -121,20 +138,23 @@ skills:
       - name: WordPress
         level: 75%
 
-      - name: Python
-        level: 80%
-
       - name: HTML5 & CSS
         level: 85%
 
       - name: Bootstrap
         level: 60%
 
-      - name: Gimp
+      - name: Git
         level: 60%
 
       - name: Linux
         level: 65%
+
+      - name: C
+        level: 70%
+
+      - name: Python
+        level: 80%
 
 footer: >
     Créditos <i class="fas fa-heart"></i> à <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
