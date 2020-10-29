@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andrii Mishchenko
-    tagline: GrowthHacker | Engenheiro | Programador
+    tagline: Engenheiro | Programador
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,41 +51,39 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p>Últimos 5 anos passei criando um MPV (Mínimo Produto Viável) da minha vida e estou bem feliz com resultado. 
-      Tenho um background de engenheiro, uma boa capacidade de análise e sou apaixonado pela programação.</p>
-      <p>Me concentrei no Marketing Digital e Programação. Consegui aproveitar o melhor dessas três áreas e gerar resultados impactantes.
-      Atualmente estou em busca de trabalho que me permite explorar o meu lado de engenheiro e aplicar os meus conhecimentos em programação.</p>
+      
+      <p> Brasileiro naturalizado e engenheiro por formação, sou fascinado em programação. Iniciei a minha trajetória na área de TI como Analista de Marketing digital em 2018 e desde então venho me especializando na área de desenvolvimento. O meu principal objetivo profissional é gerar valor para sociedade através do meu trabalho como desenvolvedor.</p>
+
+
+
 education:
-    - degree: Analista de Marketing | Growth Hacker
+    - degree: Growth Hacker
       university: Eazl
       time: 2019 - 2019
-      details: |
-        Desenvolvimento de processo de medição de tensões residuais por meio da difração de
-        Raio X.
-          - Planejamento e execução de experimentos
-          - Análise estatística e modelagem
+
     - degree: PhD em Engenharia Mecância
       university: Universidade Federal de Uberlândia
       time: 2014 - 2018
-      details: |
-        Desenvolvimento de processo de medição de tensões residuais por meio da difração de
-        Raio X.
-          - Planejamento e execução de experimentos
-          - Análise estatística e modelagem
+
     - degree: BSc em Engenharia Mecânica
       university: Universidade Pitágoras
       time: 2016 - 2017
-      details: |
-        Precisei cursas uma universidade brasileira pra validar o meu
-        diploma obtido no exterior (Ucrânia).
+
     - degree: MSc em Engenharia Mecânica
       university: Universidade Federal de Uberlândia
       time: 2012 - 2014
-      details: |
+
 
 experiences:
+    - role: Desenvolvedor Front-End Junior
+      time: 2019 - Atual
+      company: Cálculo Jurídico, Curitiba
+      details: |
+        Responsável pela criação e desenvolvimento do site comercial da empresa. Estruturei o processo de desenvolvimento rápido das páginas do site, desde licitação e contratação de designer gráfico até
+        a entrega do produto final: site comercial https://calculojuridico.com.br/. Tecnologias usadas: HTML5, Bootstrap, JS e Google Cloud Platform.
+
     - role: Analista de Marketing Digital
-      time: 2018 - Atual
+      time: 2018 - 2019
       company: Cálculo Jurídico, Curitiba
       details: |
         Responsável pela geração de um fluxo constante e previsível de leads através
@@ -98,16 +96,16 @@ experiences:
           nota 100 no Google PageSpeed Insights
           - Otimização da taxa de abertura dos emails automatizados no RD Station e segmentação avançada de leads (25% da taxa de abertura).
           - Criação de automações avançadas que ligam a base de leads com o público personalizado do FacebookAds. Isso permitiu crir anúncios relevantes para base de clientes e aumentar conversões
-    
-    - role: Analista de Marketing
+
+    - role: Desenvolvedor Front-End
       time: 2019 - Atual
       company: Golka Brasil, Florianópolis
       details: |
-        Golka é uma empresa que eu e a minha namorada criamos em 2018. Atua no ramo de produtos para cuidados pessoais, saúde e beleza.
         As minhas atribuições dentro da empresa são:
-          - Criação e manutenção de <a href="https://golka.com.br/" target="_blank">site comercial</a>. Criei esse site do zero usando framework Flask e integrei o sistema de 
+          - Criação e manutenção de <a href="https://golka.com.br/" target="_blank">site comercial</a>. O site foi criado usando framework Flask junto com a integração ao sistema de 
         pagamento do WireCard.
-          - Criação e manutenção de funis automatizados de venda
+
+
 
 publications:
     title: Publicações
@@ -120,38 +118,38 @@ publications:
         link: "https://andruhaasm.github.io/dogboxblog/email-marketing-como-fazer"
         authors: Andrii Mishchenko
 
+
+
 skills:
     title: Skills &amp; Proficiência
 
     toolset:
-      - name: Copywriting
-        level: 98%
-
-      - name: RD Station
-        level: 100%
-      - name: ActiveCampaign
-        level: 100%
-
-      - name: SEO
-        level: 75%
-
-      - name: WordPress
-        level: 75%
-
       - name: HTML5 & CSS
         level: 85%
 
+      - name: JS
+        level: 85%
+
+      - name: OOP
+        level: 50%
+
       - name: Bootstrap
-        level: 60%
+        level: 80%
 
       - name: Git
-        level: 60%
+        level: 70%
+
+      - name: Google Cloud Platform
+        level: 30%
 
       - name: Linux
         level: 65%
 
+      - name: mySQL
+        level: 60%
+
       - name: C
-        level: 70%
+        level: 80%
 
       - name: Python
         level: 80%
