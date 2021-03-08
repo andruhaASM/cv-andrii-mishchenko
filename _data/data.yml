@@ -59,15 +59,15 @@ education:
       university: Eazl
       time: 2019 - 2019
 
-    - degree: PhD em Engenharia Mecância
+    - degree: Doutorado em Engenharia Mecância
       university: Universidade Federal de Uberlândia
       time: 2014 - 2018
 
-    - degree: BSc em Engenharia Mecânica
+    - degree: Graduação em Engenharia Mecânica
       university: Universidade Pitágoras
       time: 2016 - 2017
 
-    - degree: MSc em Engenharia Mecânica
+    - degree: Mestrado em Engenharia Mecânica
       university: Universidade Federal de Uberlândia
       time: 2012 - 2014
 
@@ -101,7 +101,7 @@ experiences:
           - Criação de automações avançadas que ligam a base de leads com o público personalizado do FacebookAds. Isso permitiu crir anúncios relevantes para base de clientes e aumentar conversões
 
     - role: Desenvolvedor Front-End
-      time: 2019 - Atual
+      time: 2019 - 2020
       company: Golka Brasil, Florianópolis
       details: |
         As minhas atribuições dentro da empresa são:
