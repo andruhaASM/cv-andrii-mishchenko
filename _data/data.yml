@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andrii Mishchenko
-    tagline: Doutor em Engenharia | Programador
+    tagline: Doutor em Engenharia | Desnvolvedor Django
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,8 +52,11 @@ career-profile:
     title: Apresentação
     summary: |
    
-      <p> Brasileiro naturalizado e engenheiro por formação, sou fascinado em programação. Num time de desenvolvimento prezo muito por uma comunicação transparente e sempre busco meios eficientes de se comunicar.
-      O meu principal objetivo profissional é gerar valor para sociedade através do meu trabalho como desenvolvedor.</p> <p> O meu principal objetivo é ser lider de uma equipe técnica de desenvolvedores numa perspectiva de 5 anos</p> 
+      <p> Brasileiro naturalizado e engenheiro por formação, sou fascinado em desenvolvimento. 
+      O meu principal objetivo profissional é gerar valor para sociedade através do meu trabalho como desenvolvedor.</p>
+      <p>Na vida, sigo o princípio de Dividir para conquistar e o príncipio de Pareto.</p>
+      <p> Adoro trabalho em equipe e compartilhar conhecimento com outros. </p>
+      
 education:
     - degree: Growth Hacker
       university: Eazl
@@ -77,7 +80,7 @@ experiences:
       time: 2020 - Atual
       company: Adservi, Florianópolis
       details: |
-        Atuo nas dependência da Defensoria Pública do Estado de Santa Catarina. Responsável pela criação e desenvolvimento do sistema de agendamento online da Defensoria.
+        Atuo nas dependência da Defensoria Pública do Estado de Santa Catarina. Responsável pela criação e desenvolvimento do sistema de agendamento de atendimento jurídico online da Defensoria. O sistema é desenvolvido usando o framework Django e banco de dados POSTGRESQL.
     - role: Desenvolvedor Front-End Junior
       time: 2019 - 2020
       company: Cálculo Jurídico, Curitiba
@@ -128,6 +131,9 @@ skills:
 
     toolset:
       - name: Python
+        level: 80%
+        
+      - name: Django
         level: 80%
 
       - name: Docker
