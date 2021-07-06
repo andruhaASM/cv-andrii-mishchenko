@@ -76,11 +76,16 @@ education:
 
 
 experiences:
+    - role: Engenheiro e Desenvolvedor
+      time: 2020 - atual
+      company: Nude Seu Tom, Florianópolis
+      details: |
+        Engenheiro e co-fundador do clube de assinatura de produtos de beleza específico para pessoas negras. Responsável pela estrutura necessária para captação de clientes, processamento de dados de pagamento e perfil de beleza das assinantes.
     - role: Desenvolvedor Python
-      time: 2020 - Atual
+      time: 2020 - 2021
       company: Adservi, Florianópolis
       details: |
-        Atuo nas dependência da Defensoria Pública do Estado de Santa Catarina. Responsável pela criação e desenvolvimento do sistema de agendamento de atendimento jurídico online da Defensoria. O sistema é desenvolvido usando o framework Django e banco de dados POSTGRESQL.
+        Atuo nas dependência da Defensoria Pública do Estado de Santa Catarina. Responsável pela criação e desenvolvimento do sistema de agendamento de atendimento jurídico online da Defensoria. O sistema é desenvolvido usando o framework Django e banco de dados POSTGRESQL.        
     - role: Desenvolvedor Front-End Junior
       time: 2019 - 2020
       company: Cálculo Jurídico, Curitiba
