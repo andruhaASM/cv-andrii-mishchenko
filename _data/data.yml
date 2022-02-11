@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andrii Mishchenko
-    tagline: Doutor em Engenharia | Desnvolvedor Django
+    tagline: PhD in Mechanical Engineering | Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,23 +26,23 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Ucraniano
-        level: Nativo
+      - idiom: Ukrainian
+        level: Native
 
-      - idiom: Português
-        level: Fluente
+      - idiom: Portugueese
+        level: Fluent
 
-      - idiom: Russo
-        level: Fluente
+      - idiom: Russian
+        level: Fluent
 
-      - idiom: "Inglês"
-        level: Avançado
+      - idiom: English
+        level: Advanced
 
     interests:
-      - item: Malabares
+      - item: Juggling
         link:
 
-      - item: Mergulho
+      - item: Diing
         link:
 
       - item: Linux
@@ -52,69 +52,51 @@ career-profile:
     title: Apresentação
     summary: |
    
-      <p> Brasileiro naturalizado e engenheiro por formação, sou fascinado em desenvolvimento. 
-      O meu principal objetivo profissional é gerar valor para sociedade através do meu trabalho como desenvolvedor.</p>
-      <p>Na vida, sigo o princípio de Dividir para conquistar e o príncipio de Pareto.</p>
-      <p> Adoro trabalho em equipe e compartilhar conhecimento com outros. </p>
+        <p> Naturalized Brazilian and engineer, I am fascinated in development.
+      My main professional objective is to generate value for society through my work as a developer.</p>
+      <p>In life, I follow the divide and conquer principle and the Pareto principle.</p>
+      <p> I love teamwork and sharing knowledge with others. </p>
       
 education:
     - degree: Growth Hacker
       university: Eazl
       time: 2019 - 2019
 
-    - degree: Doutorado em Engenharia Mecância
+    - degree: PhD in Mechanical Engineering
       university: Universidade Federal de Uberlândia
       time: 2014 - 2018
 
-    - degree: Graduação em Engenharia Mecânica
+    - degree: Mechanical Engneering Undergraduate
       university: Universidade Pitágoras
       time: 2016 - 2017
 
-    - degree: Mestrado em Engenharia Mecânica
+    - degree: Master of Science in Mechanical Engineering
       university: Universidade Federal de Uberlândia
       time: 2012 - 2014
 
 
 experiences:
-    - role: Engenheiro e Desenvolvedor
-      time: 2020 - atual
+    - role: Engineer and Developer
+      time: 2020 - today (part-time)
+      company: Hexagon Agriculture, Florianópolis
+      details: |
+        One of the engineers responsible for processing agricultural vehicle monitoring data collected via satellite.
+    - role: Engineer and Developer
+      time: 2020 - today (part-time)
       company: Nude Seu Tom, Florianópolis
       details: |
-        Engenheiro e co-fundador do clube de assinatura de produtos de beleza específico para pessoas negras. Responsável pela estrutura necessária para captação de clientes, processamento de dados de pagamento e perfil de beleza das assinantes.
+        Engineer and co-founder of the beauty products subscription club. Responsible for the necessary structure for attracting customers, processing payment data and system for surveying the beauty profile and consumption of subscribers.
     - role: Desenvolvedor Python
       time: 2020 - 2021
       company: Adservi, Florianópolis
       details: |
-        Atuo nas dependência da Defensoria Pública do Estado de Santa Catarina. Responsável pela criação e desenvolvimento do sistema de agendamento de atendimento jurídico online da Defensoria. O sistema é desenvolvido usando o framework Django e banco de dados POSTGRESQL.        
+        I worked at Public Defender's Office of the State of Santa Catarina. Responsible for the creation and development of the Defender's online legal service scheduling system. The system is developed using the Django framework and POSTGRESQL database.
     - role: Desenvolvedor Front-End Junior
       time: 2019 - 2020
       company: Cálculo Jurídico, Curitiba
       details: |
-        Responsável pela criação e desenvolvimento do site comercial da empresa. Estruturei o processo de desenvolvimento rápido das páginas do site, desde licitação e contratação de designer gráfico até
-        a entrega do produto final: site comercial https://calculojuridico.com.br/. Tecnologias usadas: HTML5, Bootstrap, JS e Google Cloud Platform.
-
-    - role: Analista de Marketing Digital
-      time: 2018 - 2019
-      company: Cálculo Jurídico, Curitiba
-      details: |
-        Responsável pela geração de um fluxo constante e previsível de leads através
-        de otimização de canais de atração como SEO, GoogleAds e FacebookAds.
-        Desenvolvimento de automação de email marketing (RD Station e ActiveCampaign).
-        Principais resultados:
-          - Redução de gastos com mídia paga em mais de 50% com custo por lead qualificado
-          a R$ 3,00 ou menos. 
-          - Otimização de site comercial (migração de WordPress pro gerador de sites estáticos opensource);
-          nota 100 no Google PageSpeed Insights
-          - Otimização da taxa de abertura dos emails automatizados no RD Station e segmentação avançada de leads (25% da taxa de abertura).
-          - Criação de automações avançadas que ligam a base de leads com o público personalizado do FacebookAds. Isso permitiu crir anúncios relevantes para base de clientes e aumentar conversões
-
-    - role: Desenvolvedor Front-End
-      time: 2019 - 2020
-      company: Golka Brasil, Florianópolis
-      details: |
-        As minhas atribuições dentro da empresa são:
-          - Criação e manutenção de <a href="https://golka.com.br/" target="_blank">site comercial</a>. O site foi criado usando framework Flask junto com a integração ao sistema de 
-        pagamento do WireCard.
+       Responsible for the creation and development of the company's commercial website. I structured the process of rapid development of the website pages, from bidding and hiring a graphic designer to
+        delivery of the final product: commercial website https://calculojuridico.com.br/. Technologies used: HTML5, Bootstrap, JS and Google Cloud Platform.
 
 
 
@@ -125,14 +107,14 @@ publications:
       - title: "Copywriting e finanças: oportunidades e comércio"
         link: "https://youtu.be/W7Arf_gyGks?t=429"
         authors: Andrii Mishchenko
-      - title: "Um método eficiente (e incomum) de aprender sobre email marketing"
-        link: "https://andruhaasm.github.io/dogboxblog/email-marketing-como-fazer"
+      - title: "Welding thermal stress diagrams as a means of assessing material proneness to residual stresses"
+        link: "https://link.springer.com/article/10.1007/s10853-020-05294-y"
         authors: Andrii Mishchenko
 
 
 
 skills:
-    title: Skills &amp; Proficiência
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
@@ -145,31 +127,28 @@ skills:
         level: 60%
 
       - name: PostgreSQL
-        level: 60%
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 85%
+        level: 100%
 
       - name: JS
-        level: 85%
+        level: 30%
 
       - name: OOP
-        level: 50%
+        level: 70%
 
       - name: Bootstrap
         level: 80%
 
       - name: Git
-        level: 70%
+        level: 90%
 
-      - name: Google Cloud Platform
-        level: 30%
+      - name: AWS
+        level: 60%
 
       - name: Linux
-        level: 65%
-
-      - name: C
-        level: 80%
+        level: 75%
 
 footer: >
     Créditos <i class="fas fa-heart"></i> à <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
