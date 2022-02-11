@@ -49,7 +49,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Apresentação
+    title: Summary
     summary: |
    
         <p> Naturalized Brazilian and engineer, I am fascinated in development.
@@ -101,7 +101,7 @@ experiences:
 
 
 publications:
-    title: Publicações
+    title: Publications
     intro: |
     papers:
       - title: "Copywriting e finanças: oportunidades e comércio"
