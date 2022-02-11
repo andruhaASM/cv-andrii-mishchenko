@@ -29,7 +29,7 @@ sidebar:
       - idiom: Ukrainian
         level: Native
 
-      - idiom: Portugueese
+      - idiom: Portuguese
         level: Fluent
 
       - idiom: Russian
@@ -42,62 +42,48 @@ sidebar:
       - item: Juggling
         link:
 
-      - item: Diing
+      - item: Diving
         link:
 
-      - item: Linux
+      - item: Linux OS
         link:
 
 career-profile:
     title: Summary
     summary: |
-   
-        <p> Naturalized Brazilian and engineer, I am fascinated in development.
-      My main professional objective is to generate value for society through my work as a developer.</p>
-      <p>In life, I follow the divide and conquer principle and the Pareto principle.</p>
-      <p> I love teamwork and sharing knowledge with others. </p>
+      <p>Naturalized Brazilian and engineer, I am fascinated by software development. My main professional objective is to generate value for society through my work as a developer.</p> <p>In life, I follow the divide and conquer principle and the Pareto principle.</p> <p> I love teamwork and sharing knowledge with others. </p>
       
 education:
-    - degree: Growth Hacker
-      university: Eazl
-      time: 2019 - 2019
+    - degree: Introducion to Computer Science and Engineering
+      university: Harvard University
+      time: 2020 - 2021
 
     - degree: PhD in Mechanical Engineering
       university: Universidade Federal de Uberlândia
       time: 2014 - 2018
 
-    - degree: Mechanical Engneering Undergraduate
-      university: Universidade Pitágoras
-      time: 2016 - 2017
-
-    - degree: Master of Science in Mechanical Engineering
-      university: Universidade Federal de Uberlândia
-      time: 2012 - 2014
-
-
 experiences:
     - role: Engineer and Developer
-      time: 2020 - today (part-time)
+      time: 2021 - today
       company: Hexagon Agriculture, Florianópolis
       details: |
-        One of the engineers responsible for processing agricultural vehicle monitoring data collected via satellite.
+        One of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python with postgresql database and infrastructure in AWS
     - role: Engineer and Developer
       time: 2020 - today (part-time)
       company: Nude Seu Tom, Florianópolis
       details: |
-        Engineer and co-founder of the beauty products subscription club. Responsible for the necessary structure for attracting customers, processing payment data and system for surveying the beauty profile and consumption of subscribers.
-    - role: Desenvolvedor Python
+        Engineer and co-founder of beauty products subscription club. Responsible for the necessary infrastructure for customer acquisition, payment data processing and subscribers' beauty profile mapping using custom developed software.
+    - role: Python Developer
       time: 2020 - 2021
       company: Adservi, Florianópolis
       details: |
-        I worked at Public Defender's Office of the State of Santa Catarina. Responsible for the creation and development of the Defender's online legal service scheduling system. The system is developed using the Django framework and POSTGRESQL database.
-    - role: Desenvolvedor Front-End Junior
+        I worked at Public Defender's Office of the State of Santa Catarina. Responsible for the development of the Defender's online legal service scheduling system. The system is developed using the Django framework and postgresql database.        
+    - role: Front-End Junior Developer
       time: 2019 - 2020
       company: Cálculo Jurídico, Curitiba
       details: |
-       Responsible for the creation and development of the company's commercial website. I structured the process of rapid development of the website pages, from bidding and hiring a graphic designer to
-        delivery of the final product: commercial website https://calculojuridico.com.br/. Technologies used: HTML5, Bootstrap, JS and Google Cloud Platform.
-
+        Responsible for the creation and development of the company's commercial website. I structured the process of rapid development of the website pages, from bidding and hiring a graphic designer to
+          delivery of the final product: commercial website https://calculojuridico.com.br/. Technologies used: HTML5, Bootstrap, JS and Google Cloud Platform.
 
 
 publications:
@@ -119,36 +105,27 @@ skills:
     toolset:
       - name: Python
         level: 80%
-        
-      - name: Django
-        level: 80%
-
-      - name: Docker
-        level: 60%
-
-      - name: PostgreSQL
-        level: 80%
-
-      - name: HTML5 & CSS
-        level: 100%
-
-      - name: JS
-        level: 30%
-
-      - name: OOP
-        level: 70%
-
-      - name: Bootstrap
-        level: 80%
-
-      - name: Git
-        level: 90%
 
       - name: AWS
         level: 60%
 
+      - name: PostgreSQL
+        level: 75%
+        
+      - name: Docker
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 85%
+
+      - name: OOP
+        level: 70%
+
       - name: Linux
         level: 75%
+
+      - name: Django/Flask
+        level: 80%
 
 footer: >
     Créditos <i class="fas fa-heart"></i> à <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
