@@ -63,12 +63,12 @@ education:
       time: 2014 - 2018
 
 experiences:
-    - role: Engineer and Developer
+    - role: Engineer and Software Developer
       time: 2021 - today
       company: Hexagon Agriculture, Florianópolis
       details: |
-        One of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python with postgresql database and infrastructure in AWS
-    - role: Engineer and Developer
+        I am one of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python with postgresql database and infrastructure in AWS
+    - role: Web Software Developer
       time: 2020 - today (part-time)
       company: Nude Seu Tom, Florianópolis
       details: |
@@ -78,7 +78,7 @@ experiences:
       company: Adservi, Florianópolis
       details: |
         I worked at Public Defender's Office of the State of Santa Catarina. Responsible for the development of the Defender's online legal service scheduling system. The system is developed using the Django framework and postgresql database.        
-    - role: Front-End Junior Developer
+    - role: Jr Front-End Developer
       time: 2019 - 2020
       company: Cálculo Jurídico, Curitiba
       details: |
