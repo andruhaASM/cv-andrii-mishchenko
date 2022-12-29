@@ -63,11 +63,16 @@ education:
       time: 2014 - 2018
 
 experiences:
+    - role: Tech Lead and Software Developer
+      time: may/2022 - today
+      company: Appnovation (Remote)
+      details: |
+        Manage a team of 3 developers and 1 QA. My responsability is ensure that client requirements fit team capacity and solutions delivered with high quality standards. The product my team is working on is a Learning Management System built using Flask framework, Postgresql and React. The entire app is running on GCP.
     - role: Engineer and Software Developer
-      time: 2021 - today
+      time: august/2021 - may/2022
       company: Hexagon Agriculture, Florianópolis
       details: |
-        I am one of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python with postgresql database and infrastructure in AWS
+        I am one of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python backed up with postgresql database, running on AWS
     - role: Web Software Developer
       time: 2020 - today (part-time)
       company: Nude Seu Tom, Florianópolis
@@ -105,27 +110,30 @@ skills:
     toolset:
       - name: Python
         level: 80%
-
+      
+      - name: Django/Flask
+        level: 80%
+      
       - name: AWS
         level: 60%
+      
+      - name: GCP
+        level: 75%
 
       - name: PostgreSQL
         level: 75%
         
       - name: Docker
-        level: 60%
+        level: 80%
 
       - name: HTML5 & CSS
         level: 85%
-
-      - name: OOP
-        level: 70%
+      
+      - name: React
+        level: 35%
 
       - name: Linux
         level: 75%
-
-      - name: Django/Flask
-        level: 80%
 
 footer: >
     Créditos <i class="fas fa-heart"></i> à <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
