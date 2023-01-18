@@ -54,7 +54,7 @@ career-profile:
       <p>Naturalized Brazilian and engineer, I am fascinated by software development. My main professional objective is to generate value for society through my work as a developer.</p> <p>In life, I follow the divide and conquer principle and the Pareto principle.</p> <p> I love teamwork and sharing knowledge with others. </p>
       
 education:
-    - degree: Introducion to Computer Science and Engineering
+    - degree: Introduction to Computer Science and Engineering
       university: Harvard University
       time: 2020 - 2021
 
@@ -69,38 +69,38 @@ experiences:
       details: |
         Manage a team of 3 developers and 1 QA. My responsability is ensure that client requirements fit team capacity and solutions delivered with high quality standards. The product my team is working on is a Learning Management System built using Flask framework, Postgresql and React. The entire app is running on GCP.
     - role: Engineer and Software Developer
-      time: august/2021 - may/2022
+      time: aug/2021 - may/2022
       company: Hexagon Agriculture, Florianópolis
       details: |
         I am one of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python backed up with postgresql database, running on AWS
     - role: Web Software Developer
-      time: 2020 - today (part-time)
+      time: jan/2020 - today (part-time)
       company: Nude Seu Tom, Florianópolis
       details: |
         Engineer and co-founder of beauty products subscription club. Responsible for the necessary infrastructure for customer acquisition, payment data processing and subscribers' beauty profile mapping using custom developed software.
     - role: Python Developer
-      time: 2020 - 2021
+      time: nov/2020 - may/2021
       company: Adservi, Florianópolis
       details: |
         I worked at Public Defender's Office of the State of Santa Catarina. Responsible for the development of the Defender's online legal service scheduling system. The system is developed using the Django framework and postgresql database.        
     - role: Jr Front-End Developer
-      time: 2019 - 2020
+      time: aug/2019 - nov/2020
       company: Cálculo Jurídico, Curitiba
       details: |
         Responsible for the creation and development of the company's commercial website. I structured the process of rapid development of the website pages, from bidding and hiring a graphic designer to
           delivery of the final product: commercial website https://calculojuridico.com.br/. Technologies used: HTML5, Bootstrap, JS and Google Cloud Platform.
 
 
-publications:
-    title: Publications
-    intro: |
-    papers:
-      - title: "Copywriting e finanças: oportunidades e comércio"
-        link: "https://youtu.be/W7Arf_gyGks?t=429"
-        authors: Andrii Mishchenko
-      - title: "Welding thermal stress diagrams as a means of assessing material proneness to residual stresses"
-        link: "https://link.springer.com/article/10.1007/s10853-020-05294-y"
-        authors: Andrii Mishchenko
+# publications:
+#     title: Publications
+#     intro: |
+#     papers:
+#       - title: "Copywriting e finanças: oportunidades e comércio"
+#         link: "https://youtu.be/W7Arf_gyGks?t=429"
+#         authors: Andrii Mishchenko
+#       - title: "Welding thermal stress diagrams as a means of assessing material proneness to residual stresses"
+#         link: "https://link.springer.com/article/10.1007/s10853-020-05294-y"
+#         authors: Andrii Mishchenko
 
 
 
@@ -111,13 +111,16 @@ skills:
       - name: Python
         level: 80%
       
-      - name: Django/Flask
+      - name: Flask
         level: 80%
       
-      - name: AWS
+      - name: Django
         level: 60%
       
-      - name: GCP
+      - name: AWS (Amazon Web Services)
+        level: 60%
+      
+      - name: GCP (Google Cloud Platform)
         level: 75%
 
       - name: PostgreSQL
