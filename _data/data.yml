@@ -51,8 +51,8 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      <p>As a multidisciplinary Mechanical Engineering PhD with a background as a software engineer and tech lead, I offer a unique combination of skills and experience to any engineering project. My expertise includes the application of mechanical engineering principles, as well as proficiency in software development and team leadership. With a strong understanding of both engineering and software development, I am able to communicate effectively with cross-functional teams and stakeholders.</p>
-      <p>Throughout my career, I have demonstrated a strong commitment to excellence in engineering and software development. As a tech lead, I have led development teams, collaborated with cross-functional teams, and developed innovative solutions to meet project goals. I have a proven track record of successfully implementing process improvements, optimizing systems, and reducing costs.</p>
+      <p>As a multidisciplinary Mechanical Engineering PhD with a background as a software engineer and with more then 5 years of experience in SW development, I offer a unique combination of skills and experience to any engineering project. With a strong understanding of both engineering and software development, I am able to communicate effectively with team members and stakeholders.</p>
+      <p>Throughout my career, I have demonstrated a strong commitment to excellence in engineering and software development. As a tech lead, I have led development process of SaaS products, collaborated with cross-functional teams and developed innovative solutions to meet project goals. I have a proven track record of successfully implementing process improvements, optimizing systems, and reducing costs.</p>
       <p>In addition to my engineering and software development skills, my marketing analysis and copywriting experience have given me the ability to effectively communicate complex technical concepts to non-technical stakeholders. I am confident that my unique blend of skills and experience make me an ideal candidate for any engineering role.</p>
       
 education:
@@ -94,14 +94,12 @@ experiences:
         <p> I am proud to have been part of a team of developers that were hired by the Government of The Santa Catarina State to develop a system that enables the provision of Public Defensor services even during the COVID-19 pandemic.</p>
         <p> The system has several vital features, including the collection and processing of PII data, scheduling of visits and face-to-face meetings, and automatic sending of confirmation emails and notifications. These features have been pivotal in enabling the Public Defensor services to continue uninterrupted despite the pandemic.</p>
         <p> As a developer, I utilized my technical prowess to develop the entire application using Django and Postgresql on the back-end and HTML, CSS, and JS on the front-end. I am proud to have contributed my skills and expertise to this project, which has played a crucial role in fighting the spread of the virus through technology. The satisfaction of making a difference through my work motivates me to continue delivering top-quality solutions that have a positive impact on society.</p>
-    - role: Marketing Data Analyst
+    - role: Jr. Frontend Developer
       time: aug/2018 - nov/2020
       company: Cálculo Jurídico, Curitiba
       details: |
-        <p> As a marketing data analyst, I have demonstrated my expertise in a diverse range of areas, including ad optimization in Google Ads and Facebook Ads, copywriting and email marketing, web page development and maintenance, and data processing and analysis.</p>
-        <p> In my previous roles, I have been instrumental in reducing lead acquisition cost by more than 50% through effective ad optimization strategies. I have also achieved a 25% open rate for an email marketing campaign targeting a list of over 25,000 subscribers, demonstrating my ability to write compelling copy that resonates with audiences.</p>
-        <p> In web development, I have maintained a mobile-first website that scored a perfect 100 on Google PageSpeed Insights, ensuring that users enjoy a seamless experience. Additionally, I have developed a custom dashboard that tracks both organic and paid traffic using Google DataStudio, and utilized custom scripts to extract public data from the internet.</p>
-        <p> My wide range of technical skills and experience in various aspects of software development makes me a valuable addition to any team, and I am excited to leverage my expertise in delivering top-quality solutions that exceed the expectations of clients and end-users.</p>
+        Responsible for the creation and development of the company's commercial website. I structured the process of rapid development of the website pages, from bidding and hiring a graphic designer to
+        delivery of the final product: commercial website https://calculojuridico.com.br/. Technologies used: HTML5, Bootstrap, JS and Google Cloud Platform.
 
 # publications:
 #     title: Publications
