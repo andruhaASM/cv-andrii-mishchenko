@@ -51,7 +51,9 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      <p>Naturalized Brazilian and engineer, I am fascinated by software development. My main professional objective is to generate value for society through my work as a developer.</p> <p>In life, I follow the divide and conquer principle and the Pareto principle.</p> <p> I love teamwork and sharing knowledge with others. </p>
+      <p>As a multidisciplinary Mechanical Engineering PhD with a background as a software engineer and tech lead, I offer a unique combination of skills and experience to any engineering project. My expertise includes the application of mechanical engineering principles, as well as proficiency in software development and team leadership. With a strong understanding of both engineering and software development, I am able to communicate effectively with cross-functional teams and stakeholders.</p>
+      <p>Throughout my career, I have demonstrated a strong commitment to excellence in engineering and software development. As a tech lead, I have led development teams, collaborated with cross-functional teams, and developed innovative solutions to meet project goals. I have a proven track record of successfully implementing process improvements, optimizing systems, and reducing costs.</p>
+      <p>In addition to my engineering and software development skills, my marketing analysis and copywriting experience have given me the ability to effectively communicate complex technical concepts to non-technical stakeholders. I am confident that my unique blend of skills and experience make me an ideal candidate for any engineering role.</p>
       
 education:
     - degree: Introduction to Computer Science and Engineering
@@ -67,29 +69,39 @@ experiences:
       time: may/2022 - today
       company: Appnovation (Remote)
       details: |
-        Manage a team of 3 developers and 1 QA. My responsability is ensure that client requirements fit team capacity and solutions delivered with high quality standards. The product my team is working on is a Learning Management System built using Flask framework, Postgresql and React. The entire app is running on GCP.
+        <p> As an experienced software developer, I have played an instrumental role in implementing and maintaining a Learning Management System (LMS) for corporate e-learning, which has been built on a microservices architecture on top of Google Cloud Platform. My proficiency in the tech stack, including Python, Flask, PostgreSQL, and React, has enabled me to deliver a high-quality product that meets the specific needs of the client.</p>
+        <p> The LMS offers a range of features designed to enhance the learning experience. For instance, it enables the tracking of learning progress, content curation for personalized learning, and federated search using the Algolia tool. I take pride in having been involved in developing these features, which have played a crucial role in ensuring the LMS's success.</p>
+        <p> Moreover, as the team leader, I have managed and motivated a team of 4 individuals, including 2 back-end engineers, 1 front-end engineer, and 1 QA analyst. Our collaborative efforts have been critical in achieving our objectives and exceeding the client's expectations.</p>
     - role: Engineer and Software Developer
       time: aug/2021 - may/2022
       company: Hexagon Agriculture, Florianópolis
       details: |
-        I am one of the engineers responsible for processing agricultural machinery geoposition data. Processing is done through custom software written in Python backed up with postgresql database, running on AWS
+        <p> As an accomplished software developer, I have gained extensive practical experience in deploying and integrating applications on AWS and Azure. I have leveraged this experience in the development and maintenance of a system that processes geospatial data collected from agricultural vehicles.</p>
+        <p> The system utilizes physical sensors connected to a small microprocessor device that enables them on the agricultural vehicle. Once the device connects to the internet, the data collected is uploaded to AWS Storage Buckets, and Azure Blob Storage where a chain of Lambda functions processes and extracts the data. The data is then saved in Postgresql database hosted on Azure, and presented in a visual form for the end-user.</p>
+        <p> My technical expertise on the back-end includes AWS, Azure, Python, and Postgresql, which has been instrumental in ensuring the system's success. I have worked collaboratively with other developers and stakeholders to ensure that the system meets the user's requirements and provides the necessary functionalities. Specifically, I have been responsible for deploying and integrating the application on both AWS and Azure, ensuring seamless functionality between the two cloud platforms.</p>
+        <p> On the front-end, I have utilized my proficiency in Angular, which has been instrumental in delivering a user-friendly interface that enables users to interact with the system and extract valuable insights from the geospatial data. I take pride in having been involved in the development of this cutting-edge system that has revolutionized the agriculture industry by providing valuable insights for the users.</p>
     - role: Web Software Developer
       time: jan/2020 - today (part-time)
       company: Nude Seu Tom, Florianópolis
       details: |
-        Engineer and co-founder of beauty products subscription club. Responsible for the necessary infrastructure for customer acquisition, payment data processing and subscribers' beauty profile mapping using custom developed software.
+        <p> As a skilled software developer, I have spearheaded the creation and maintenance of a data collection system that caters to the beauty market. This system collects vital data about a person's skin and the cosmetic products they use, leveraging the insights to create a personalized experience that meets the user's specific needs.</p>
+        <p> My technical prowess was essential in developing the main features of the system. For instance, I implemented logic-enabled questions that dynamically generate the next question based on the user's previous choice. I achieved this using a REST API built on the Django Framework, which has significantly enhanced the system's functionality. Additionally, I integrated the payment system with Stripe, a leading payment platform, enabling seamless transactions for the users.</p>
+        <p> The technology stack used for developing the system includes the Django REST Framework, HTML, CSS, and JS. The system is deployed on GCP, ensuring it is scalable, reliable, and secure. I take pride in having been a crucial part of the team that delivered this cutting-edge product, which has revolutionized the beauty industry by providing personalized experiences for the users.</p>
     - role: Python Developer
       time: nov/2020 - may/2021
       company: Adservi, Florianópolis
       details: |
-        I worked at Public Defender's Office of the State of Santa Catarina. Responsible for the development of the Defender's online legal service scheduling system. The system is developed using the Django framework and postgresql database.        
-    - role: Jr Front-End Developer
-      time: aug/2019 - nov/2020
+        <p> I am proud to have been part of a team of developers that were hired by the Government of The Santa Catarina State to develop a system that enables the provision of Public Defensor services even during the COVID-19 pandemic.</p>
+        <p> The system has several vital features, including the collection and processing of PII data, scheduling of visits and face-to-face meetings, and automatic sending of confirmation emails and notifications. These features have been pivotal in enabling the Public Defensor services to continue uninterrupted despite the pandemic.</p>
+        <p> As a developer, I utilized my technical prowess to develop the entire application using Django and Postgresql on the back-end and HTML, CSS, and JS on the front-end. I am proud to have contributed my skills and expertise to this project, which has played a crucial role in fighting the spread of the virus through technology. The satisfaction of making a difference through my work motivates me to continue delivering top-quality solutions that have a positive impact on society.</p>
+    - role: Marketing Data Analyst
+      time: aug/2018 - nov/2020
       company: Cálculo Jurídico, Curitiba
       details: |
-        Responsible for the creation and development of the company's commercial website. I structured the process of rapid development of the website pages, from bidding and hiring a graphic designer to
-          delivery of the final product: commercial website https://calculojuridico.com.br/. Technologies used: HTML5, Bootstrap, JS and Google Cloud Platform.
-
+        <p> As a marketing data analyst, I have demonstrated my expertise in a diverse range of areas, including ad optimization in Google Ads and Facebook Ads, copywriting and email marketing, web page development and maintenance, and data processing and analysis.</p>
+        <p> In my previous roles, I have been instrumental in reducing lead acquisition cost by more than 50% through effective ad optimization strategies. I have also achieved a 25% open rate for an email marketing campaign targeting a list of over 25,000 subscribers, demonstrating my ability to write compelling copy that resonates with audiences.</p>
+        <p> In web development, I have maintained a mobile-first website that scored a perfect 100 on Google PageSpeed Insights, ensuring that users enjoy a seamless experience. Additionally, I have developed a custom dashboard that tracks both organic and paid traffic using Google DataStudio, and utilized custom scripts to extract public data from the internet.</p>
+        <p> My wide range of technical skills and experience in various aspects of software development makes me a valuable addition to any team, and I am excited to leverage my expertise in delivering top-quality solutions that exceed the expectations of clients and end-users.</p>
 
 # publications:
 #     title: Publications
@@ -109,19 +121,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 80%
+        level: 100%
+
+      - name: Microsoft Azure
+        level: 70%
       
+      - name: GCP (Google Cloud Platform)
+        level: 85%
+
       - name: Flask
         level: 80%
       
       - name: Django
         level: 60%
-      
-      - name: AWS (Amazon Web Services)
-        level: 60%
-      
-      - name: GCP (Google Cloud Platform)
-        level: 75%
 
       - name: PostgreSQL
         level: 75%
